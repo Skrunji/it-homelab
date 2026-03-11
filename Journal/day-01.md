@@ -1,0 +1,6 @@
+Today I wanted to get started with getting my home lab set up. I started by logging in to github and created a new repo called it-homelab with just a README.md and a small description. Then I was able to navigate through the setup process for git on my local machine and vscode. I installed both with winget, and I learned that you can open vscode from the terminal with the 'code .' command. I setup git to clone my repo into a projects directory I already use for other projects such as 3d printing. I ran into a couple small issues with credentials when trying to commit and push an update to the readme file. I had failed to put my email and name for git config so it just gave me an error saying author identity unknown. So I set the appropriate credentials using git config user.email and user.name.
+
+Then I retried the push. I signed in with the browser when it popped up and it said everything up-to-date in the terminal. But when I checked my repo nothing had changed.
+I figured out that I needed to try the commit again, then push again. and this time it actually worked and pushed my changes. 
+
+so I learned that everything up-to-date just means that Git saw no differences between local and remote. I learned about git log and status which will help me verify that commits are actually being pushed correctly in the future.
