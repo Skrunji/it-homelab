@@ -45,8 +45,12 @@ The purpose of this repo is not just to build things, but to document the proces
 
 If you improve by just 1% every day, the effect compounds. Mathematically, that looks like:
 
-1.01³⁶⁵ ≈ 37.8
+`1.01³⁶⁵ ≈ 37.8`
 
-In other words, something that improves by 1% each day becomes nearly 38 times better after a year. The opposite is also true, getting 1% worse each day (0.99³⁶⁵) leaves you with only about 3% of where you started.
+In other words, something that improves by 1% each day becomes nearly **38x better** after a year. The opposite is also true, getting 1% worse each day 
+
+`0.99³⁶⁵`
+
+leaves you with only about 3% of where you started.
 
 Each project, experiment, mistake, and lesson documented here is just another +1%. Over time, those small steps add up to real growth in skill, understanding, and the things I'm building.
