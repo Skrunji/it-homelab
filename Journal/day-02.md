@@ -1,4 +1,4 @@
-# day-02
+# Day-02
 
 I started off by trying to install MySQL with winget. MySQL.MySQL didn't work so I used winget search MySQL which returned lots of related results. I went with the Oracle.MySQL package.
 
