@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daniel Marcial IT Homelab
+title: Daniel Marcial IT Homelab Log
 email: dsmarcial@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Personal homelab and data projects — documenting my journey learning Python, MySQL, and IT automation.
