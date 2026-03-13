@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# IT Homelab
+# +1% Lab
 
 Personal homelab and learning journal focused on building practical IT skills through hands-on experimentation.
 
