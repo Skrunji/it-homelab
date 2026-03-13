@@ -34,4 +34,4 @@ Planned areas of exploration:
 
 ## Why Document Everything?
 
-The purpose of this repo is not just to build things, but to document the process — including mistakes, troubleshooting, and lessons learned.
+The purpose of this repo is not just to build things, but to document the process, including mistakes, troubleshooting, and lessons learned.
