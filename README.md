@@ -1,4 +1,5 @@
-# IT Homelab
+
+# +1% Lab
 
 Personal homelab and learning journal focused on building practical IT skills through hands-on experimentation.
 
@@ -17,9 +18,6 @@ The goal is to continuously build practical skills and document the learning pro
 ## Learning Journal
 
 Each entry documents something new I explored, built, or learned.
-
-Day 01 – Environment setup  
-Day 02 – MySQL setup and first SQL challenge  
 
 ## Future Plans
 

@@ -24,9 +24,6 @@ The goal is to continuously build practical skills and document the learning pro
 
 Each entry documents something new I explored, built, or learned.
 
-Day 01 – Environment setup  
-Day 02 – MySQL setup and first SQL challenge  
-
 ## Future Plans
 
 Planned areas of exploration:
