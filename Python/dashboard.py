@@ -45,7 +45,7 @@ if st.button("Show Overdue Rentals"):
         JOIN customer c ON r.customer_id = c.customer_id
         JOIN inventory i ON r.inventory_id = i.inventory_id
         JOIN film f ON i.film_id = f.film_id
-        WHERE DATE_ADD(r.rental_date, INTERVAL f.rental_duration DAY) < '2005-09-01' AND r.return_date IS NULL
+        WHERE DATE_ADD(r.rental_date, INTERVAL f.rental_duration DAY) < NOW() AND r.return_date IS NULL
     """
     
     df_overdue = pd.read_sql(query, conn)
