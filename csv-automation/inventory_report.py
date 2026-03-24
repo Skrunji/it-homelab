@@ -10,5 +10,6 @@ filtered = df[df["status"].isin(["Unassigned", "Needs Repair"])]
 
 
 print("\nDevices Needing Attention:")
-print(filtered[["asset_tag", "assigned_user", "room", "location"]])
-filtered[["asset_tag", "assigned_user", "room", "location"]].to_csv("csv-automation/devices_needing_attention.csv", index=False)
+print(filtered[["asset_tag", "assigned_user", "room", "location"]].fillna("Unassigned"))
+
+filtered[["asset_tag", "assigned_user", "room", "location"]].fillna("Unassigned").to_csv("csv-automation/devices_needing_attention.csv", index=False)
